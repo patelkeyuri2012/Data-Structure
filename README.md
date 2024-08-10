@@ -1,0 +1,21 @@
+# Data Structure Algorithm | C
+- Satck
+  - Array
+  - Infix to Postfix
+  - Infix to Prefix
+  - Stack
+- Queue
+  - Queue
+  - Dequeue
+  - Circular Queue
+- Sort
+  - Heap Sort
+  - Merge Sort
+  - Quick Sort
+  - Radix Sort
+- Linked List
+  - Binary Search Tree
+  - Multilinked Structure
+  - Sort Circular Doubly Linked List
+  - Sort Circular Singly Linked List
+  - Sort Singly Linked List
