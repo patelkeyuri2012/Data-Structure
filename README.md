@@ -1,4 +1,6 @@
 # Data Structure Algorithm | C
+- Data structures are a specific way of organizing data in a specialized format on a computer so that the information can be organized, processed, stored, and retrieved quickly and effectively
+  
 - Satck
   - Array
   - Infix to Postfix
