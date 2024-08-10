@@ -1,0 +1,1 @@
+//1. Write a program that finds prime number that is also palindrome.

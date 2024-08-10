@@ -1,0 +1,1 @@
+// 14. Write a program that calculates g.c.d. and l.c.d. of input numbers.

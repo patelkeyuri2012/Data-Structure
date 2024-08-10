@@ -1,0 +1,1 @@
+//2. Write a program that counts number of lines, words and characters from an input string.

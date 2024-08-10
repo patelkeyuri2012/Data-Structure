@@ -1,0 +1,1 @@
+// 12. Write a program that accepts age of a person in years, months and days and finds out birthdate of the person.
