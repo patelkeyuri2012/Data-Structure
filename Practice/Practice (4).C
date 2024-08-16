@@ -1,1 +1,0 @@
-// 15. Write a program that merges two arrays in sorted order.

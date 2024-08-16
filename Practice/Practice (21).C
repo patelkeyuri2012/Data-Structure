@@ -1,1 +1,0 @@
-//4. Write a program that concates two string without using inbuilt function.

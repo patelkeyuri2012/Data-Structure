@@ -1,1 +1,0 @@
-//5. Write a program that compares two string without using inbuilt function.
