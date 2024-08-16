@@ -1,3 +1,5 @@
+#include<stdio.h>
+#define MAX 4
 
 int front = -1, rear = -1, deque[MAX];
 
