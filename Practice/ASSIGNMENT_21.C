@@ -7,8 +7,8 @@
 struct Customer
 {
     int customerno;
-    char customername[50];
-    char computertype[50];
+    char customername[30];
+    char computertype[30];
     struct Customer* next;
     struct Customer* prev;
 };
