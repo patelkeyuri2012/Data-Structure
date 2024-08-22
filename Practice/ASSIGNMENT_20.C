@@ -1,21 +1,3 @@
-/*
-20. write a program that reads data from an electricity meter reading file. 
-File contains customer no, previous reading, last reading and customer type. 
-Calculate bill using  following formulas.
-
-Meter reading = last reading – previous reading
-
-If customer type = 1, 
-    Bill amount = meter reading * 1.50
-             
-If customer type = 2, 
-    Bill amount = meter reading * 2.50
-    
-If customer type = 3, 
-	Bill amount = meter reading * 1.50 for 50 units and meter reading * 2.50 for remaining units
-
-    display output in formatted formula.
-*/
 
 #include <stdio.h>
 
