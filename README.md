@@ -1,4 +1,4 @@
-- More code is provided for practice# Data Structure Algorithm | C
+# Data Structure Algorithm | C
 - Data structures are a specific way of organizing data in a specialized format on a computer so that the information can be organized, processed, stored, and retrieved quickly and effectively
   
 - Satck
@@ -15,4 +15,10 @@
   - Merge Sort
   - Quick Sort
   - Radix Sort
-
+- Linked List
+  - Binary Search Tree
+  - Multilinked Structure
+  - Sort Circular Doubly Linked List
+  - Sort Circular Singly Linked List
+  - Sort Singly Linked List
+- More code is provided for practice
